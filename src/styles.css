@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.buttons {
+  position: absolute;
+  bottom: 5rem;
+  left: 50%;
+}
+
+.questionContainer {
+  border: 1px solid;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px black;
+  background: burlywood;
+  height: 90vh;
+  text-align: left;
+}
+
+.radio {
+  text-align: left;
+  position: relative;
+  left: 2rem;
+}
